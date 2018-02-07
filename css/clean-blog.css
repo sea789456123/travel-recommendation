@@ -418,3 +418,44 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+/*우리 코드*/
+
+/*section1*/
+#section1{
+  border-bottom: 1px solid gray;
+  padding-top: 5%;
+}
+
+#section1 h2{
+  margin-bottom: 5%;
+}
+
+/*section2*/
+#section2{
+  border-bottom: 1px solid gray;
+  padding-top: 5%;
+}
+
+
+#section2 img, #section2 p{
+  width: 45%;
+  margin-left: 5%;
+  float: left;
+}
+
+#section2 img{
+  margin: 30px auto;
+  clear: both;
+}
+
+/*section3*/
+#section3{
+  border-bottom: 1px solid gray;
+  padding-top: 5%;
+}
+
+#section3 img{
+  width: 30%;
+  margin: 30px auto;
+}
